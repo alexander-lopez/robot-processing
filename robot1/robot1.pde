@@ -18,7 +18,7 @@ line(276,155,342,170);      // Medium
 
 // Body
 noStroke();                  // Disable stroke
-fill(255,204,0);             // Set fill to orange
+fill(255,204,0);             // Set fill to yellow
 ellipse(264,377,33,33);      // Antigravity orb
 fill(0);                     // Set fill to black
 rect (219,257,90,120);       // Main body
